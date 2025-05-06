@@ -974,3 +974,8 @@ blockquote {
     left: -100% !important;
   }
 }
+
+@font-face {
+  font-family: Helvetica light;
+  src: url(helvetica-light-normal.ttf);
+}
