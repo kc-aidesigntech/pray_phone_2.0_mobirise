@@ -974,14 +974,7 @@ blockquote {
     left: -100% !important;
   }
 }
-
-.item-role {
-    p {
-      margin-bottom: 0;
-      font-size: 16px;
-      font-family: "Sans-Serif", helvetica-light-normal, sans-serif;
-    }
-  }.btn {
+.btn {
   border-width: 2px;
 }
 .video-wrapper {
@@ -999,7 +992,7 @@ body {
   font-size: 6.25rem;
 }
 .display-2 {
-  font-family: 'Inter', sans-serif;
+  font-family: 'helvetica-light-587ebe5a59211';
   font-size: 4rem;
   line-height: 1.125;
 }
@@ -1023,7 +1016,7 @@ body {
   font-size: 4.375rem;
 }
 .display-7 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'helvetica-light-587ebe5a59211';
   font-size: 1.5rem;
   line-height: 1.3;
 }
@@ -1609,7 +1602,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'helvetica-light-587ebe5a59211';
   font-size: 1.5rem;
   line-height: 1.3;
   font-weight: 400;
@@ -1624,7 +1617,7 @@ a:hover {
   border-color: #272b2e !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'helvetica-light-587ebe5a59211';
   font-size: 1.5rem;
   line-height: 1.3;
   font-weight: 400;
